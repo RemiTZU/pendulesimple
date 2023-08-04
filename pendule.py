@@ -13,7 +13,7 @@ dtheta = 0  # vitesse angulaire
 g = 9.8  # accélération de la pesanteur m/s**2
 
 
-newDirectory = "D:\REMI\COURS\INFOperso\pendulesimple"
+newDirectory = ""
 
 
 os.chdir(newDirectory)
